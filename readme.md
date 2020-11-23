@@ -1,3 +1,4 @@
+install:
 sklearn
 numpy
 torch
